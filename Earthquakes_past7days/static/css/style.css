@@ -5,8 +5,9 @@ body,
   height: 100%;
   padding: 0;
   margin: 0;
+}
 
- .legend {
+.legend {
   padding: 10px;
   line-height: 18px;
   color: #555;
